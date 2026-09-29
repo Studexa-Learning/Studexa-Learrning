@@ -1,0 +1,4 @@
+Open index.html for the public site.
+Open request.html to submit a school request.
+Open manager.html for Studexa Manager.
+Open admin.html for a school admin dashboard.
